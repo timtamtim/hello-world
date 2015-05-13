@@ -1,2 +1,3 @@
-# hello-world
-start using git
+# hello
+start using people
+edit inside readme-edits branch
